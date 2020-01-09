@@ -1,0 +1,11 @@
+C:\Users\Arielle\source\repos\Lab1a_ArielleMueller\Lab1a_ArielleMueller\bin\Debug\netcoreapp2.2\Lab1a_ArielleMueller.deps.json
+C:\Users\Arielle\source\repos\Lab1a_ArielleMueller\Lab1a_ArielleMueller\bin\Debug\netcoreapp2.2\Lab1a_ArielleMueller.runtimeconfig.json
+C:\Users\Arielle\source\repos\Lab1a_ArielleMueller\Lab1a_ArielleMueller\bin\Debug\netcoreapp2.2\Lab1a_ArielleMueller.runtimeconfig.dev.json
+C:\Users\Arielle\source\repos\Lab1a_ArielleMueller\Lab1a_ArielleMueller\bin\Debug\netcoreapp2.2\Lab1a_ArielleMueller.dll
+C:\Users\Arielle\source\repos\Lab1a_ArielleMueller\Lab1a_ArielleMueller\bin\Debug\netcoreapp2.2\Lab1a_ArielleMueller.pdb
+C:\Users\Arielle\source\repos\Lab1a_ArielleMueller\Lab1a_ArielleMueller\obj\Debug\netcoreapp2.2\Lab1a_ArielleMueller.csprojAssemblyReference.cache
+C:\Users\Arielle\source\repos\Lab1a_ArielleMueller\Lab1a_ArielleMueller\obj\Debug\netcoreapp2.2\Lab1a_ArielleMueller.csproj.CoreCompileInputs.cache
+C:\Users\Arielle\source\repos\Lab1a_ArielleMueller\Lab1a_ArielleMueller\obj\Debug\netcoreapp2.2\Lab1a_ArielleMueller.AssemblyInfoInputs.cache
+C:\Users\Arielle\source\repos\Lab1a_ArielleMueller\Lab1a_ArielleMueller\obj\Debug\netcoreapp2.2\Lab1a_ArielleMueller.AssemblyInfo.cs
+C:\Users\Arielle\source\repos\Lab1a_ArielleMueller\Lab1a_ArielleMueller\obj\Debug\netcoreapp2.2\Lab1a_ArielleMueller.dll
+C:\Users\Arielle\source\repos\Lab1a_ArielleMueller\Lab1a_ArielleMueller\obj\Debug\netcoreapp2.2\Lab1a_ArielleMueller.pdb
